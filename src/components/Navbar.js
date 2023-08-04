@@ -28,7 +28,7 @@ const Navbar = ({ footerNav }) => {
     >
       <div className="logo">
         <HashLink smooth to="#home" className="link-item" ref={link1Ref}>
-          {footerNav ? "Go to top" : "Rafiul Islam"}
+          {footerNav ? "Go to top" : "Ben Muhire"}
         </HashLink>
       </div>
 
