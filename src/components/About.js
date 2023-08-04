@@ -23,7 +23,7 @@ const About = () => {
         <div className="about-left" ref={aboutLeftRef}></div>
         <div className="about-right " ref={aboutRightRef}>
           <p>I am a software developer focusing on React and Redux, with a strong emphasis on Tailwind CSS. This portfolio website showcases my skills and projects as a web developer, and provides a platform for potential clients and employers to learn more about me and my work.</p>
-          <p className='mt-10'>Whether you are looking for a new web developer for your team or just interested in my work, this portfolio website provides a comprehensive look at my skills and experience. If you have any questions or would like to learn more about my work, please feel free to reach out via the contact form on the website.</p>
+          <p className='mt-10'>Whether you are looking for a new web developer for your team or just interested in my work, this portfolio website provides a comprehensive look at my skills and experience. If you have any questions or would like to learn more about my work, please feel free to reach out to me!.</p>
           <a
             href="https://docs.google.com/document/d/1KGW80KyhFG02aAy6zSrlOXrX0LcCrkR1ntGBK5WqAmg/edit?usp=sharing"
             target="_blank"
