@@ -31,33 +31,33 @@ const Project = ({ project }) => {
           ))}
         </span>
         <div className="flex gap-10 flex-wrap">
-          <a
+          <p
             /*href={project.liveLink}
             target="_blank"
             rel="noreferrer"
             className="uppcase py-8 px-14 border border-white/25 rounded-full hover:bg-cyan-400/20 hover:border-cyan-400/20 duration-500"*/
           >
             Live Site
-          </a>
+          </p>
 
-          <a
+          <p
            /* //href={project.frontEndLink}
             //target="_blank"
             //rel="noreferrer"
             //className="uppcase py-8 px-14 border border-white/25 rounded-full hover:bg-cyan-400/20 hover:border-cyan-400/20 duration-500"*/
           >
             Front-End code
-          </a>
+          </p>
 
           //{project.backEndLink && (
-            <a
+            <p
               /*//href={project.backEndLink}
               //target="_blank"
               //rel="noreferrer"
               //classname="uppcase py-8 px-14 border border-white/25 rounded-full hover:bg-cyan-400/20 hover:border-cyan-400/20 duration-500"*/
             >
               Back-End Code
-            </a>
+            </p>
           )}
         </div>
       </div>
