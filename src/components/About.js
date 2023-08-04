@@ -25,7 +25,7 @@ const About = () => {
           <p>I am a software developer focusing on React and Redux, with a strong emphasis on Tailwind CSS. This portfolio website showcases my skills and projects as a web developer, and provides a platform for potential clients and employers to learn more about me and my work.</p>
           <p className='mt-10'>Whether you are looking for a new web developer for your team or just interested in my work, this portfolio website provides a comprehensive look at my skills and experience. If you have any questions or would like to learn more about my work, please feel free to reach out to me!.</p>
           <a
-            href="#"
+            href=
             target="_blank"
             rel="noreferrer"
             className="inline-block mt-10 uppcase py-8 px-14 border border-white/25 rounded-full hover:bg-cyan-400/20 hover:border-cyan-400/20 duration-500"
