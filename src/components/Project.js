@@ -32,29 +32,29 @@ const Project = ({ project }) => {
         </span>
         <div className="flex gap-10 flex-wrap">
           <a
-            //href={project.liveLink}
-            //target="_blank"
-            //rel="noreferrer"
-            //className="uppcase py-8 px-14 border border-white/25 rounded-full hover:bg-cyan-400/20 hover:border-cyan-400/20 duration-500"
+            /*href={project.liveLink}
+            target="_blank"
+            rel="noreferrer"
+            className="uppcase py-8 px-14 border border-white/25 rounded-full hover:bg-cyan-400/20 hover:border-cyan-400/20 duration-500"*/
           >
             Live Site
           </a>
 
           <a
-            //href={project.frontEndLink}
+           /* //href={project.frontEndLink}
             //target="_blank"
             //rel="noreferrer"
-            //className="uppcase py-8 px-14 border border-white/25 rounded-full hover:bg-cyan-400/20 hover:border-cyan-400/20 duration-500"
+            //className="uppcase py-8 px-14 border border-white/25 rounded-full hover:bg-cyan-400/20 hover:border-cyan-400/20 duration-500"*/
           >
             Front-End code
           </a>
 
           //{project.backEndLink && (
             <a
-              //href={project.backEndLink}
+              /*//href={project.backEndLink}
               //target="_blank"
               //rel="noreferrer"
-              //classname="uppcase py-8 px-14 border border-white/25 rounded-full hover:bg-cyan-400/20 hover:border-cyan-400/20 duration-500"
+              //classname="uppcase py-8 px-14 border border-white/25 rounded-full hover:bg-cyan-400/20 hover:border-cyan-400/20 duration-500"*/
             >
               Back-End Code
             </a>
